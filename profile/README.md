@@ -41,13 +41,7 @@ Why This Matters
 This ecosystem addresses all three gaps with open protocols, open hardware, and open methodology.
 ---
 Funding
-This ecosystem is seeking funding via FLOSS/fund and NLnet NGI Zero Commons Fund.
-See `funding.json` for details.
-What funding enables:
-TSE core implementation (parser, validator, projection engine)
-StaTutny domain pack and pilot deployment
-VUHO hardware pilot and social care integration
-FELIS methodology open documentation
+Built independently. External funding may be explored in the future.
 ---
 Open Source
 All projects are open source:
