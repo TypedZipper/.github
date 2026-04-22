@@ -20,8 +20,7 @@ A formal, auditable chain between:
 ```text
 signal → incident → decision → commitment → confirmation → legal act
 ```
-Built on the Typed Seam Engine (TSE) — a domain-agnostic open source semantic core. Each seam between layers is a first-class, machine-verifiable contract.
-Real pilots: Yaroslavska 32/33 (Kyiv) and Krystal-19 housing cooperative.  
+Built on the Typed Seam Engine (TSE) — a domain-agnostic open source semantic core. Each seam between layers is a first-class, machine-verifiable contract. 
 Jurisdiction: Ukraine (JurisdictionPack.UA.Housing.v0.2 — active draft).  
 Status: Full specification corpus complete. Implementation in progress.
 ---
