@@ -30,7 +30,7 @@ In the StaTutny ecosystem, VUHO serves as the terminal for social care — elder
 Status: Hardware profile, temporal execution model, and primitive matrix formally documented.
 ---
 FELIS — Open Methodology for AI-Assisted Formal System Design
-The methodology and design environment used to build StaTutny and VUHO. FELIS enables a single developer with AI as co-architect to deliver systems with the formal rigor of a large team — without losing architectural integrity or human control.
+The methodology and design environment used to build StaTutny and VUHO. FELIS enables a single developer with AI as co-performer to deliver systems with the formal rigor of a large team — without losing architectural integrity or human control.
 Status: Actively used. Documentation in progress.
 ---
 Why This Matters
